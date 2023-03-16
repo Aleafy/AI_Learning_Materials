@@ -4,7 +4,7 @@
 
 ### AI入门路线
 
-<img src="C:\Users\10150\Documents\学习资料\资料分享\AI_Learning_Materials\ai_xmind2.png" style="zoom:80%;" />
+<img src="imgs/ai_xmind2.png" style="zoom:80%;" />
 
 
 
@@ -56,7 +56,7 @@ tips：可以系统学习，时间不够也可以直接跟着李沐老师的动�
 
   在线编程网站：[和鲸社区 - Heywhale.com](https://www.heywhale.com/home)
 
-<img src="C:\Users\10150\AppData\Roaming\Typora\typora-user-images\image-20230316170916535.png" alt="image-20230316170916535" style="zoom:67%;" />
+<img src="imgs/capture1.png" style="zoom:67%;" />
 
 
 
@@ -127,7 +127,7 @@ tips：可以系统学习，时间不够也可以直接跟着李沐老师的动�
 - NLP：Hugging Face、LTP（NLP）
 - CV：open mmlab系列、detectron2
 
-<img src="C:\Users\10150\AppData\Roaming\Typora\typora-user-images\image-20230316171124884.png" alt="image-20230316171124884" style="zoom:80%;" />
+<img src="imgs/mmlab.png" style="zoom:80%;" />
 
 ### 2.Others and Soft Skills
 
